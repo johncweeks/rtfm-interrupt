@@ -1,3 +1,10 @@
+
+# `Programs STM32F303 Discovery board user button to toggle led using interrupt and wfi (wait for interrupt) in RTFM idle loop.`
+
+Some background in this [blog post](http://www.moonrisesoftware.net/blog).
+
+Converted to RTFM from this post [Programming GPIO Interrupts with Embedded Rust](https://flowdsp.io/blog/stm32f3-01-interrupts/).
+
 # `cortex-m-quickstart`
 
 > A template for building applications for ARM Cortex-M microcontrollers
